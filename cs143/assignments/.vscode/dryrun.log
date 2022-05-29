@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/usr/class/cs143/assignments'
+make: Leaving directory '/usr/class/cs143/assignments'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+

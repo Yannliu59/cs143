@@ -1,0 +1,2 @@
+//   a2i(x)  :  convert  x (string)  to x (int)
+//   i2a(x)  :  convert  x (int)     to x (string)
